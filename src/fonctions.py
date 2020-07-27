@@ -24,8 +24,8 @@ def decalage(àhasher):
 def id(formule):
     #Renvoie un dictionnaire modifiant les propriétées du dico de base
     Beta = Alpha
-    for i in Beta.keys :
-        Beta[i] = Beta[i] * formule # A MODIFIER
+    for i in Beta.keys() :
+        i = i * formule # A MODIFIER
     return Beta
 """
 la formule pour connaitre le décalage est : 
