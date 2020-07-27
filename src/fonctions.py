@@ -20,4 +20,5 @@ def binary_to_hexa(bin):
     for byte in bin:
         print(byte)
 
-def jules_cesar()
+def jules_cesar() :
+    pass
