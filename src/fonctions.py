@@ -10,8 +10,8 @@ def decalage(hash):
         pass
     return dict
 
-str = bytes("Hello", "utf-8")
-
+str = "Hello"
+str = ' '.join(format(ord(x), 'b') for x in str).split(" ")
 def binary_to_hexa(bin):
     print(len(bin))
     for byte in bin:
