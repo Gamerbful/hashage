@@ -1,8 +1,6 @@
 """
 Date : 27/07/2020
 """
-<<<<<<< HEAD
-=======
 
 
 #- C’est une bonne situation ça scribe ?
@@ -20,3 +18,5 @@ st = "hello world"
 st = ' '.join(format(ord(x), 'b') for x in st)
 print(st)
 >>>>>>> 10534ad9e21223dcc6647b0f4f9edfa2c6decdea
+
+
