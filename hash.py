@@ -1,10 +1,7 @@
 """
 Date : 27/07/2020
 """
-<<<<<<< HEAD
 
-=======
->>>>>>> 56b491531d3c20affa2a6d2af7d64f321737be63
 
 
 #- C’est une bonne situation ça scribe ?
@@ -21,9 +18,3 @@ print(arr,'\n')
 st = "jules"
 st = ' '.join(format(ord(x), 'b') for x in st)
 print(st)
-<<<<<<< HEAD
-=======
->>>>>>> 10534ad9e21223dcc6647b0f4f9edfa2c6decdea
-
-
->>>>>>> 56b491531d3c20affa2a6d2af7d64f321737be63
