@@ -16,9 +16,13 @@ def decalage(hash):
 str = "Hello"
 str = ' '.join(format(ord(x), 'b') for x in str).split(" ")
 def binary_to_hexa(bin):
-    print(len(bin))
     for byte in bin:
-        print(byte)
+        hexa = "0"+byte
+        for i in range(0,4):
+            hexa[i]
+        print(hexa[4:8])
 
 def jules_cesar() :
     pass
+
+binary_to_hexa(str)
