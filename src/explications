@@ -1,0 +1,27 @@
+"""
+Explication de l'algorithme :
+1ère étape : Trouver une formule que l'on maquillera sous forme d'ID pour connaitre le decalage de notre dictionnaire
+
+
+2ème étape : Commencez à établir un code de césar avec le décalage trouvé grace a la formule , ce qui nous donnera alors un
+premiere chaine que nous nommerons amicalement "maictsur"
+
+
+3ème étape : Avec la chaine maictsur, nous pouvons a présent commencer a la conversion en bytes , ce qui nous donnera une nouvelle
+chaine de caractere , appelé ( toujours amicalement "canette de 86 tu connais")
+
+
+4eme etape : A partir de la cane... a partir de ce ... truc , nous pourrons etablir alors le code en hexadecimal , ce qui nous donnera notre code presque terminé
+
+
+5ème étape : Nous devrons coller les différents bouts des codes hexadecimals obtenue , afin d'avoir une sorte de veritable clé , ce qui est quand
+même bien plus presentable !
+
+
+Dernière etape : Upside Down ! Et oui ! Car si cette première étape était sans doute super facile il faut que ce code puisse etre lisible a l'autre bout du fil :
+car sinon cela ne sert strictement a rien ! Ca serait vraiment dommage !
+
+Voila et si un jour vous vous demandez si griller vos tartines puis mettre du nutella dessus etait une bonne idée , sachez que c'est une idée plus que revolutionnaire !
+
+A demain , ou a tout de suite si nous sommes deja le matin ( que le temps passe vite)
+"""
